@@ -251,6 +251,6 @@ Development Goals.""",
          fontsize=20, ha='left', va='center', transform=ax_text.transAxes,
          linespacing=1.5)
 
-# Save the figure
-plt.savefig('22078603.png', dpi=300)
+# Show Infographic
+plt.show()
 
